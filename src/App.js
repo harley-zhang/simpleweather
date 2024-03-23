@@ -41,7 +41,7 @@ function App() {
           </div>
         </div>
 
-        {data.name != undefined &&
+        {data.name ? 
           <div className='bottom'>
             <div className='feels'>
               <p>Feels Like</p>
@@ -56,7 +56,7 @@ function App() {
               {data.wind ? <p className='bold'>{data.wind.speed} km/h</p> : null}
             </div>
           </div>
-}
+        : null}
       </div>
     </div>
   );
