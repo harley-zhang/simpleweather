@@ -50,7 +50,8 @@ h1 {
   font-size: 1.2rem;
   border-radius:15px;
   border: none;
-  background: rgba(255, 255, 255, 0.2)
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
 }
 
 .container {
