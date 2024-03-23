@@ -40,6 +40,19 @@ h1 {
   z-index: -1;
 }
 
+.app .search {
+  text-align: center;
+  padding: 1rem;
+}
+
+.app input {
+  padding: .7rem 1.5rem;
+  font-size: 1.2rem;
+  border-radius:15px;
+  border: none;
+  background: rgba(255, 255, 255, 0.2)
+}
+
 .container {
   max-width: 700px;
   height: 700px;
