@@ -14,3 +14,5 @@ App that allows users to see weather for any location using search with a clean 
 - **Search bar:** Search for thousands of locations of interest.
   
 - **Weather data:** View realtime data such as temperature, feels like temperature, humidity, and wind.
+
+- **Clean UI:** Simple, elegant, and modern custom UI design.
