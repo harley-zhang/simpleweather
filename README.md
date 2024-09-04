@@ -1,7 +1,6 @@
 # [SimpleWeather](https://simpleweather-murex.vercel.app/)
 
 <div>
-    <br>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/OpenWeatherMap%20API-%23e76241.svg?style=for-the-badge&logoColor=white"/>
     <br><br>
