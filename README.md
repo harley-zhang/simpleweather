@@ -6,7 +6,7 @@
     <br><br>
 </div>
   
-App that allows users to see weather for any location using search with a clean UI. Made with React and OpenWeatherMap API. 
+Weather app for any city in the world. Made with React and OpenWeatherMap API. 
 
 ## Features
 
